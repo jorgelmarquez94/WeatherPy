@@ -1,0 +1,4 @@
+We can conclude from the graphs that the temperature increases as we approach the equator. 
+Also, from the graph of cloudiness and humidity do not show a strong correlation to latitude. 
+In the other graph of wind speed, it appears to slightly increase as we move away from the equator. 
+We would need to start a more extended research to make a definitive conclusion.
